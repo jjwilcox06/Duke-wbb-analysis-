@@ -1,0 +1,11 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# macOS
+.DS_Store
+
+# Claude Code local settings
+.claude/settings.local.json
